@@ -1,5 +1,9 @@
 <meta charset="utf-8"/>
 
+# hash-bench
+
+A demo based on wasm-pack-template.
+
 # 🦀🕸️ `wasm-pack-template`
 
 A template for kick starting a Rust and WebAssembly project using
